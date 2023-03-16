@@ -15,5 +15,5 @@ Our team is made up of passionate game developers who are also avid gamers. We a
 * Pinchart Saovaros - Artist 🎨
 
 
-## Our Honorable spectators 😎
+## Our Beautiful External Contributors 😎
 * Nutthapat Pongtanyavichai 
